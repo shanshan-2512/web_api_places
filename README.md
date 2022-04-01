@@ -1,1 +1,2 @@
-# web_api_places
+# webapi-places-2022
+leaflet with simple api
